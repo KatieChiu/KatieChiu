@@ -68,7 +68,7 @@ A REST API designed for a hardware store to manage **products, inventory, purcha
 
 A web application exploring the integration of artificial intelligence into creative workflows, allowing users to generate visual designs through AI.
 
-**Technologies:** React · TypeScript · Node.js · AI APIs
+**Technologies:** python · react  · OpenAI APIs
 
 **Role:** Full-Stack Developer
 
@@ -148,7 +148,7 @@ I'm interested in software development opportunities, challenging projects and c
   <a href="https://github.com/KatieChiu">
     <img src="https://img.shields.io/badge/GitHub-003049?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/katielai-chiu">
     <img src="https://img.shields.io/badge/LinkedIn-003049?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
